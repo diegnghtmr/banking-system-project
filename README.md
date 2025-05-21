@@ -56,9 +56,3 @@ The project follows a standard Maven directory layout:
     * `pom.xml`: The Project Object Model file used by Maven to manage the project's build, dependencies, and other configurations.
 * `LICENSE`: Contains the license information for the project.
 * `README.md`: This file! Providing information about the project.
-
-## License 📄
-This project is licensed under the terms of the LICENSE file. Please refer to the `LICENSE` file in the root directory for more details.
-
----
-_This README was generated with assistance from an AI agent._ 🤖

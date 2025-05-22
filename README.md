@@ -1,7 +1,7 @@
 # Banking System Project 🏦
 
 ## Overview 📖
-This project is a desktop banking application developed as a requirement for Programming II 2024-1. It allows users to manage their bank accounts, perform transactions, and more.
+Banking System is a robust desktop application designed to streamline banking operations and provide users with an intuitive interface for managing their financial accounts. The application supports multiple user roles including customers, cashiers, and managers, each with tailored functionality to meet their specific needs.
 
 ## Features ✨
 Based on the file structure, the application likely includes features such as:
@@ -28,7 +28,7 @@ Based on the file structure, the application likely includes features such as:
 ### Building and Running the Project
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/diegnghtmr/banking-system-project.git
    ```
 2. **Navigate to the project directory:**
    ```bash
